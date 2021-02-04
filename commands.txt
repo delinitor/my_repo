@@ -1,0 +1,22 @@
+   git status     -- chekc the status
+    
+    git init       -- run for the first time to initiate
+ 
+    git add .    stage all the files in a dir.
+ 
+    git restore index.txt			revert the change made to previous
+    git status
+    git stage index.txt utils.txt      ---- can give files with space to stge
+ 
+    git commit -m "version 1"    == commad to commit after staging
+ 
+ 
+    git config --global user.email "shubhbdj.monktrance.com"     ------- user configuration
+    git config --global user.name "shubh" 				 ------- user configuration
+ 
+    git commit -m "version 1"
+   git log    === this will list all the commits and by whome
+ 
+    git add index.txt utils.txt    === use add command to stage
+ 
+ 
