@@ -19,6 +19,10 @@
  
     git add index.txt utils.txt    === use add command to stage
 
-git config user.email    -- comand to cekc which email is configured
+git config user.email    -- comand to cekc which eail is configured
+
+
  
  
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOzlg+qRUSlab2PzvxnaZrXsvzwP/sx77N/cK+KuW84P shubhbdj@monktrance.com
+
